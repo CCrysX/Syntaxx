@@ -1,9 +1,9 @@
 {
   
-  "CurrentVersion": "0.1",
+  "CurrentVersion": "BETA_v1",
   "Updates": {
     
-    "0.1": {
+    "BETA_v1": {
       "enabled": true,
       "name": "Syntaxx BETA",
       "shortDescription": "Syntaxx is finally here!",
@@ -19,7 +19,7 @@
       ]
     },
     
-    "0.0": {
+    "BETA_v0": {
       "enabled": false,
       "name": "Syntaxx PREVIEW",
       "shortDescription": "Early test version",

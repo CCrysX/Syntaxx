@@ -6,10 +6,10 @@
       "shortDescription": "Syntaxx is finally here!",
       "longDescription": "This is the first preview of syntaxx. The best admin panel yet.",
       
-      "message": "Syntaxx (BETA v1.0) is now available."
-      "icon": "rbxassetid://0"
-      
+      "message": "Syntaxx (BETA v1.0) is now available.",
+      "icon": "rbxassetid://0",
       "version": "0.1",
+      
       "changelog": [
         "Includes a fully functional admin panel.",
         "Features fluid UI and pro-level moderation tools."

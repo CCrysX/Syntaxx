@@ -1,0 +1,18 @@
+{
+  "Updates": {
+
+    "1": {
+      "name": "Syntaxx v1.0",
+      "shortDescription": "Syntaxx is finally here!",
+      "longDescription": "Syntaxx is finally here. Our first official release brings a sleek, powerful admin panel built for serious Roblox games. From fluid UI to pro-level moderation tools, managing your server has never felt this smooth and this fun.",
+      
+      "version": "1.0",
+      "changelog": [
+        "Initial release of Syntaxx.",
+        "Includes a fully functional admin panel.",
+        "Features fluid UI and pro-level moderation tools."
+      ]
+    }
+
+  }
+}

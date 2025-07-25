@@ -8,6 +8,7 @@
       "name": "Syntaxx BETA",
       "shortDescription": "Syntaxx is finally here!",
       "longDescription": "This is the first preview of Syntaxx. The best admin panel yet.",
+      "bootloader": "0"
       
       "message": "Syntaxx (BETA v0.1) is now available.",
       "icon": "rbxassetid://0",

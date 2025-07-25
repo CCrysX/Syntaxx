@@ -1,12 +1,15 @@
 {
+  
+  "CurrentVersion": "0.1",
   "Updates": {
-
-    "1": {
+    
+    "0.1": {
+      "enabled": true,
       "name": "Syntaxx BETA",
       "shortDescription": "Syntaxx is finally here!",
-      "longDescription": "This is the first preview of syntaxx. The best admin panel yet.",
+      "longDescription": "This is the first preview of Syntaxx. The best admin panel yet.",
       
-      "message": "Syntaxx (BETA v1.0) is now available.",
+      "message": "Syntaxx (BETA v0.1) is now available.",
       "icon": "rbxassetid://0",
       "version": "0.1",
       
@@ -14,7 +17,23 @@
         "Includes a fully functional admin panel.",
         "Features fluid UI and pro-level moderation tools."
       ]
+    },
+    
+    "0.0": {
+      "enabled": false,
+      "name": "Syntaxx PREVIEW",
+      "shortDescription": "Early test version",
+      "longDescription": "Preview build for internal testing.",
+      
+      "message": "This version is deprecated.",
+      "icon": "rbxassetid://0",
+      "version": "0.0",
+      
+      "changelog": [
+        "Initial internal test release."
+      ]
     }
-
+    
   }
+  
 }

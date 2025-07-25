@@ -25,6 +25,7 @@
       "name": "Syntaxx PREVIEW",
       "shortDescription": "Early test version",
       "longDescription": "Preview build for internal testing.",
+      "bootloader": "0"
       
       "message": "This version is deprecated.",
       "icon": "rbxassetid://0",

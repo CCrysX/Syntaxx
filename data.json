@@ -2,13 +2,15 @@
   "Updates": {
 
     "1": {
-      "name": "Syntaxx v1.0",
+      "name": "Syntaxx BETA",
       "shortDescription": "Syntaxx is finally here!",
-      "longDescription": "Syntaxx is finally here. Our first official release brings a sleek, powerful admin panel built for serious Roblox games. From fluid UI to pro-level moderation tools, managing your server has never felt this smooth and this fun.",
+      "longDescription": "This is the first preview of syntaxx. The best admin panel yet.",
       
-      "version": "1.0",
+      "message": "Syntaxx (BETA v1.0) is now available."
+      "icon": "rbxassetid://0"
+      
+      "version": "0.1",
       "changelog": [
-        "Initial release of Syntaxx.",
         "Includes a fully functional admin panel.",
         "Features fluid UI and pro-level moderation tools."
       ]
